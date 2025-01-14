@@ -64,4 +64,7 @@ After running the algorithms, you will see the shortest path plotted on an inter
 Contributing
 Contributions are welcome! If you have suggestions for improvements or additional features, please open an issue or submit a pull request.
 
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
 Feel free to customize any sections, especially the installation instructions and code snippets, to better fit your actual implementation and repository structure.
